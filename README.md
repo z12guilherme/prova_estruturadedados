@@ -116,7 +116,7 @@ prova.exe      # Para sistemas Windows
 
 | Nome                               | Função                                       |
 | ---------------------------------- | -------------------------------------------- |
-| **Marcos Guilherme Oliveira Lima** | Desenvolvimento, documentação e demonstração |
+| **Marcos Guilherme Oliveira Lima** | Desenvolvimento, documentação e apresentação |
 | **Michele Félix de Lima**          | Desenvolvimento, testes e apresentação       |
 
 ---
@@ -131,5 +131,6 @@ prova.exe      # Para sistemas Windows
 ```
 
 ---
+
 
 
