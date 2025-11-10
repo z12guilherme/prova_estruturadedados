@@ -80,17 +80,17 @@ Copiar código
 
 ## ⚙️ Como Compilar e Executar
 
-### 1️⃣ Clone o repositório
+### 🧩 1️⃣ Clone o repositório
 ```bash
 git clone https://github.com/z12guilherme/prova_estruturadedados
 cd prova_estruturadedados/src
-2️⃣ Compile o código
-No terminal:
+⚙️ 2️⃣ Compile o código
+No terminal, execute o comando:
 
 bash
 Copiar código
 gcc prova.c -o prova
-3️⃣ Execute o programa
+🚀 3️⃣ Execute o programa
 bash
 Copiar código
 ./prova        # Linux / macOS
