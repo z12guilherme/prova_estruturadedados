@@ -37,8 +37,6 @@ O repositório está organizado da seguinte forma:
 -   `src/prova`: Arquivo .exe criado ao compilar o código-fonte prova.c
 -   `Enunciado 2ª VERIFICAÇÃO DE APRENDIZAGEM.ini: Enunciado da Questão
 -   `README.md`: Arquivo de documentação do projeto (este arquivo).
--   `.vscode/tasks.json` : Arquivo que diz ao VS Code como compilar o código C usando o gcc do MinGW — pegando o arquivo atual, compilando e gerando um executável .exe.
-
 
 - **Linguagem**: O projeto foi desenvolvido inteiramente em **C**.
 - **Modularidade**: O código é organizado em funções específicas para cada uma das operações, promovendo a legibilidade e a manutenção.
@@ -73,4 +71,5 @@ Este projeto foi desenvolvido por:
 
 ---
 *Este README foi gerado com base nas especificações do projeto.*
+
 
