@@ -66,3 +66,36 @@ O sistema apresenta um menu interativo com as seguintes operações:
 
 ## 📂 Estrutura do Repositório
 
+📁 prova_estruturadedados
+├── 📂 src
+│ ├── prova.c # Código-fonte principal
+│ └── prova.exe # Executável gerado (Windows)
+├── Enunciado 2ª VERIFICAÇÃO DE APRENDIZAGEM.ini
+└── README.md # Documentação do projeto
+
+yaml
+Copiar código
+
+---
+
+## ⚙️ Como Compilar e Executar
+
+### 1️⃣ Clone o repositório
+```bash
+git clone https://github.com/z12guilherme/prova_estruturadedados
+cd prova_estruturadedados/src
+2️⃣ Compile o código
+No terminal:
+
+bash
+Copiar código
+gcc prova.c -o prova
+3️⃣ Execute o programa
+bash
+Copiar código
+./prova        # Linux / macOS
+prova.exe      # Windows
+👥 Autores
+Nome	Função
+Marcos Guilherme Oliveira Lima	Desenvolvimento, documentação e demonstração
+Michele Félix de Lima	Desenvolvimento, testes e apresentação
