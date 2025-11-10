@@ -35,8 +35,7 @@ O repositório está organizado da seguinte forma:
 
 -   `src/prova.c`: Arquivo principal do código-fonte em C. Contém toda a lógica do programa, incluindo a definição da `struct`, as funções de manipulação da lista ligada e a função `main` que executa o menu interativo.
 -   `src/prova`: Arquivo .exe criado ao compilar o código-fonte prova.c
--   `src/2ª VERIFICAÇÃO DE APRENDIZAGEM.ini`: Enunciado da Questão
--   `video/`: Diretório que originalmente continha o vídeo explicativo.
+-   `Enunciado 2ª VERIFICAÇÃO DE APRENDIZAGEM.ini: Enunciado da Questão
 -   `README.md`: Arquivo de documentação do projeto (este arquivo).
 -   `.vscode/tasks.json` : Arquivo que diz ao VS Code como compilar o código C usando o gcc do MinGW — pegando o arquivo atual, compilando e gerando um executável .exe.
 
@@ -74,3 +73,4 @@ Este projeto foi desenvolvido por:
 
 ---
 *Este README foi gerado com base nas especificações do projeto.*
+
