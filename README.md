@@ -78,24 +78,14 @@ Copiar código
 
 ---
 
-## ⚙️ Como Compilar e Executar
-
-### 🧩 1️⃣ Clone o repositório
-```bash
-git clone https://github.com/z12guilherme/prova_estruturadedados
+Certo, vamos aprimorar essa seção para o GitHub, tornando-a mais clara e visualmente organizada.⚙️ Como Compilar e ExecutarPara começar, você precisará clonar o repositório e, em seguida, compilar e executar o código. Siga os passos abaixo:
+🧩 1️⃣ Clonar o Repositório: Primeiro, clone o repositório para o seu ambiente local. Abra o terminal e execute o seguinte comando:Bashgit clone https://github.com/z12guilherme/prova_estruturadedados
 cd prova_estruturadedados/src
-⚙️ 2️⃣ Compile o código
-No terminal, execute o comando:
-
-bash
-Copiar código
-gcc prova.c -o prova
-🚀 3️⃣ Execute o programa
-bash
-Copiar código
-./prova        # Linux / macOS
-prova.exe      # Windows
-👥 Autores
-Nome	Função
-Marcos Guilherme Oliveira Lima	Desenvolvimento, documentação e demonstração
-Michele Félix de Lima	Desenvolvimento, testes e apresentação
+⚙️ 2️⃣ Compilar o Código: Após navegar para o diretório src, compile o código-fonte usando o compilador GCC. No terminal, execute:Bashgcc prova.c -o prova
+🚀 3️⃣ Executar o Programa: Com o código compilado, você pode agora executar o programa. 
+Utilize o comando apropriado para o seu sistema operacional:
+./prova       # Para sistemas Linux / macOS
+prova.exe     # Para sistemas Windows
+👥 Autores: Este projeto foi desenvolvido e contribuído por: 
+Marcos Guilherme Oliveira Lima Desenvolvimento, documentação e demonstração
+Michele Félix de LimaDesenvolvimento, testes e apresentação
